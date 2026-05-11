@@ -5,6 +5,8 @@
 .challenge-1 {
   background-color: grey;
   width: 100vw;
+  display: flex;
+  row
   /* add code below */
 
 
@@ -18,7 +20,9 @@
 .challenge-2 {
   background-color: grey;
   width: 100vw;
+  column
   display: flex;
+  
   /* add code below*/
 
 
@@ -34,6 +38,10 @@
 .challenge-3 {
   background-color: grey;
   width: 100vw;
+  column
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
   /* add code below */
 
 
@@ -48,6 +56,8 @@
   background-color: grey;
   width: 100vw;
   height: 400px;
+  display:flex;
+  
   /* add code below */
 
 
